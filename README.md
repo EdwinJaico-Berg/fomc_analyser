@@ -1,0 +1,1 @@
+Using OpenAI's whisper, we are able to transcribe videos with ease. While there are many use cases for such a service, one possible application in finance would be to analyse the price movements for the S&P 500 during the FOMC meetings. This notebook will therefore show how we may use whisper to analyse price changes associated with the speech.
